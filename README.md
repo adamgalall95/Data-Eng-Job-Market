@@ -22,4 +22,9 @@ This project is dedicated to develping a ELT solution which utilises Azure data 
 - Azure Data Factory: triggers transformation pipeline and manages data movement between bronze, silver, and gold layers.
 - Azure Databricks: transformation script is developed using Pysaprk and the key feature of the transfomration stage is text analysis of job description.
 - Azure Synapse: serverless SQL pool is used to reads data from gold layer in azure data lake and perform ad hoc analysis.
-- PowerBI: PowerBI report is connected to Synapse to import data from gold layer and is monthly.
+- PowerBI: PowerBI report is connected to Synapse to import data from gold layer and is updated monthly.
+
+
+## Power Bi report:
+
+https://app.powerbi.com/view?r=eyJrIjoiZjU1YzkyMGQtM2UzZC00ZmJhLTlkNGUtNGRiYTBlNjc0MGRjIiwidCI6ImFlYTFmYzBhLTgzYjMtNGY1MC04NjUwLWE5OTk1NzgzODcyYSJ9
