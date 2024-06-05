@@ -1,8 +1,8 @@
 # Job-Market-Insights
 
 ## Objectives
-In today's rapidly changing economic landscape, understanding market demand for job employment is crucial for both job seekers and employers. As industries evolve and new technologies emerge, so do the skills and roles in demand.
-This project is dedicated to develping a ELT solution which utilises Azure data stack. The goal of this solution is provide Data Engineering job hunters in Australia with job market insights for better adaptability to changing market demands, and to broaden their applicantion pool.
+In today's rapidly changing economic landscape, understanding market demand for job employment is crucial for both job seekers and employers. As industries evolve and new technologies emerge, so do the skills.
+This project is dedicated to develping a ELT solution which utilises Azure data stack to deliver insights into Data Engineering job market in Australia. The goal of this solution is provide job hunters with insights for better adaptability to changing market demands, and to broaden their applicantion pool.
 
 
 ## Consumers of your data
