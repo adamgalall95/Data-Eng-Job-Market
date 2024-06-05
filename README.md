@@ -12,7 +12,9 @@ This project is dedicated to develping a ELT solution which utilises Azure data 
 
 # Solution architecture
 
-![azure-databricks-modern-analytics-architecture](https://github.com/adamgalall9/Data-Eng-Job-Market/assets/1428713/2c282106-a88-4a82-8189-029a231b67e8)
+![azure-databricks-modern-analytics-architecture](https://github.com/adamgalall95/Data-Eng-Job-Market/assets/145528713/4dfa2d49-26af-4f02-9921-3e3aeb92acf0)
+
+
 
 ## Breakdown of steps:
 
