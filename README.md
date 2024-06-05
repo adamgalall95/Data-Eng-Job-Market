@@ -16,7 +16,7 @@ This project is dedicated to develping a ELT solution which utilises Azure data 
 
 
 
-## Breakdown of steps:
+## Breakdown of workflow:
 
 - Azure Functions: built using python and schedualed to extract new data engineering job posts daily using third-party APIs.
 - Azure Data Factory: triggers transformation pipeline and manages data movement between bronze, silver, and gold layers.
