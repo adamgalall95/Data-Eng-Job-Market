@@ -1,0 +1,17 @@
+{
+    "scriptFile": "__init__.py",
+    "bindings": [
+      {
+        "name": "mytimer",
+        "type": "timerTrigger",
+        "direction": "in",
+        "schedule": "0 30 13 * * *"
+      }
+    ],
+    "retry": {
+      "strategy": "exponentialBackoff",
+      "maxRetryCount": 5,
+      "minimumInterval": "00:05:00",
+      "maximumInterval": "00:30:00"
+    }
+  }
